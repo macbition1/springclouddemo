@@ -17,4 +17,4 @@
 
 ​		user 提供用户服务：添加用户、查询用户、删除用户。
 
-![model](C:\Users\12420\Pictures\Saved Pictures\model.png)
+![model](model.png)
